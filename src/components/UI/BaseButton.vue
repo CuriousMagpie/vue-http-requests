@@ -8,6 +8,7 @@
 button {
   font: inherit;
   border: 1px solid #360032;
+  border-radius: 4px;
   background-color: #360032;
   color: white;
   padding: 0.5rem 2rem;
